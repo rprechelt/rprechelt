@@ -1,4 +1,13 @@
-### Hi there 👋
+<h3 align="center">👋 Hi there! I'm <i>Remy!</i></h3>
+
+---
+
+I'm a doctoral candidate in physics at the 🌴 University of Hawai'i 🌴 where I use _radio-frequency (RF)_ and _microwave systems_ to detect high-energy particles, including:
+
++ Searching for ultrahigh-energy neutrinos in the Antarctic ice with the [ANITA]() and [PUEO](https://pueo.space/) experiments.
++ Measuring particles with picosecond timing precision at next generation colliders with [ACE](https://arxiv.org/pdf/1708.01798.pdf).
+
+I'm a big advocate for the [Julia](https://julialang.org/) language and alternative hardware description languages (HDLs) like [Clash](https://clash-lang.org/).
 
 <!--
 **rprechelt/rprechelt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
