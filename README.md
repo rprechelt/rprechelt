@@ -8,7 +8,7 @@ I'm a doctoral candidate in physics at the 🌴 University of Hawai'i 🌴 where
 + Measuring particles with picosecond timing precision at next generation colliders with [ACE](https://arxiv.org/pdf/1708.01798.pdf).
 + Developing high-performance particle cascade simulations with [CORSIKA 8](https://gitlab.ikp.kit.edu/AirShowerPhysics/corsika).
 
-If you are interested in any of my science work, see my [science website](https://remyprechelt.xyz/). More generally, I'm a big advocate for the [Julia](https://julialang.org/) language, open-source and reproducible science, and alternative hardware description languages (HDLs) like [Clash](https://clash-lang.org/).
+If you are interested in any of my science work, see my [science website](https://remyprechelt.xyz/). Unfortunately, most of my code is not on Github, and is stored on private project-specific Git instances, but some of my smaller Python and C++ projects are available below. More generally, I'm a big advocate for the [Julia](https://julialang.org/) language, open-source and reproducible science, and alternative hardware description languages (HDLs) like [Clash](https://clash-lang.org/).
 
 <!--
 **rprechelt/rprechelt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
